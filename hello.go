@@ -2,8 +2,8 @@ package main
 
 import (
     "fmt"
-    "github.com/huseyinham/stringutil"
+    "github.com/huseyinham/gostringutil"
 )
 func main() {
-    fmt.Printf(stringutil.Reverse("\n.dlroW, olleH"))
+    fmt.Printf(gostringutil.Reverse("\n.dlroW, olleH"))
 }
